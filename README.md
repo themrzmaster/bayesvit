@@ -1,5 +1,5 @@
 # bayesvit
-Implementation of the Bayesformer paper on a simple VIT (https://github.com/lucidrains/vit-pytorch) by the great lucidrains
+Implementation of the BayesFormer on a simple VIT (https://github.com/lucidrains/vit-pytorch) by the great lucidrains
 
 
 ```bibtex
